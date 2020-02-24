@@ -1,7 +1,5 @@
 # cubing
-cubing workflow
-
-
+cubing chart
 
  Type of cube| # of times solved | Average solve times | 
 -------------|-------------------|---------------------
