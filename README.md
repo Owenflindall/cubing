@@ -1,11 +1,17 @@
 # cubing
 cubing workflow
 
-Type of cube | Average solve time | 
---------------|--------------------
-pyraminx duo | 7.32
+
+
+ Type of cube| # of times solved | Average solve times | 
+-------------|-------------------|---------------------
+pyraminx duo | 25                |     7.32 
+
+:sparkles::sparkles::sparkles::sparkles:
+
+
 
 Owen once said:
 
->I did not commit changes.
+>:camel:.
 >This was a mistake.
