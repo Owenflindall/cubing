@@ -12,4 +12,4 @@ pyraminx duo | 25                |     7.32
 Owen once said:
 
 >:camel:.
->This was a mistake.
+
